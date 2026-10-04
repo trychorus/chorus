@@ -1,8 +1,8 @@
 # Chorus
 
-**Your agent in Ableton Live, Logic Pro and FL Studio.**
+**Chorus is the AI agent inside your DAW, for Ableton Live, Logic Pro and FL Studio. It proposes changes you hear, review and undo.**
 
-Chorus reads the session open in your DAW, proposes changes as a diff on the piano roll (notes, mix moves, plug-in settings, arrangements), and applies them only when you say so, with undo for everything it does.
+It reads the session open in your DAW and proposes notes, mix moves, plug-in settings, arrangements and audio edits as a diff on the piano roll. Nothing reaches your DAW until you apply it, and everything can be undone. More at [askchorus.io](https://askchorus.io): [Ableton Live](https://askchorus.io/ableton/), [Logic Pro](https://askchorus.io/logic-pro/), [FL Studio](https://askchorus.io/fl-studio/), and [what it sends where](https://askchorus.io/trust/).
 
 ## Download
 
