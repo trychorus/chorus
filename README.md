@@ -10,7 +10,7 @@ Get the latest version from [Releases](https://github.com/trychorus/chorus/relea
 
 - macOS 12 or later, Apple silicon
 - Ableton Live 12, Logic Pro 12, or FL Studio 2025 or later
-- Your own Anthropic API key ([console.anthropic.com](https://console.anthropic.com/settings/keys))
+- Your own AI key (you choose the provider in setup)
 
 Chorus is signed with a Developer ID and notarized by Apple. On first launch it walks you through connecting your DAW and adding your key.
 
